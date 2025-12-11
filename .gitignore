@@ -1,0 +1,9 @@
+# do not commit the encrypted seed
+encrypted_seed.txt
+
+# python cache
+__pycache__/
+*.pyc
+
+# env
+.env
